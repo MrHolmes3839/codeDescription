@@ -1,0 +1,3 @@
+var x = 'song';
+var y = 'city';
+console.log(x + ' ' + y)
