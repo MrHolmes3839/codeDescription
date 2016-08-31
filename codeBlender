@@ -1,3 +1,30 @@
 var x = 'song';
 var y = 'city';
-console.log(x + ' ' + y)
+
+function  setup(){
+  createCanvas(800,700)
+  
+
+
+}
+function draw(){
+  background=[0];
+  stroke(12);
+  angle(0);
+  
+  
+}
+  function  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+}
